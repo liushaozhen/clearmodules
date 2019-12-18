@@ -1,6 +1,6 @@
 {
   "name": "clearmodules",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -9,6 +9,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liushaozhen/clearmodules.git"
+  },
+  "homepage": "https://github.com/liushaozhen/clearmodules#readme",
   "author": "lucian",
   "license": "MIT",
   "dependencies": {
